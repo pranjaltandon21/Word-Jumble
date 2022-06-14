@@ -1,2 +1,2 @@
 # Word-Jumble
-Word Jumble Python
+Word Jumble Game in Python
